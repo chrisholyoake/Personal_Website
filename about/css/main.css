@@ -854,6 +854,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
     bottom: 30px;
   }
 }
+/*=================================================================*/
+/*Projects on about page*/
+.project-custom{
+  font-size:2em;
+}
 
 /*=================================================================*/
 /*Portfolio Navbar*/
